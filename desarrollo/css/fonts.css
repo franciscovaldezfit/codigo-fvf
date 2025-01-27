@@ -1,0 +1,32 @@
+@font-face{
+    font-family: Blinker-Black;
+    src: url(../fonts/Blinker-Black.ttf);
+}
+@font-face{
+    font-family: Blinker-Bold;
+    src: url(../fonts/Blinker-Bold.ttf);
+}
+@font-face{
+    font-family: Blinker-ExtraBold;
+    src: url(../fonts/Blinker-ExtraBold.ttf);
+}
+@font-face{
+    font-family: Blinker-ExtraLight;
+    src: url(../fonts/Blinker-ExtraLight.ttf);
+}
+@font-face{
+    font-family: Blinker-Light;
+    src: url(../fonts/Blinker-Light.ttf);
+}
+@font-face{
+    font-family: Blinker-Regular;
+    src: url(../fonts/Blinker-Regular.ttf);
+}
+@font-face{
+    font-family: Blinker-SemiBold;
+    src: url(../fonts/Blinker-SemiBold.ttf);
+}
+@font-face{
+    font-family: Blinker-Thing;
+    src: url(../fonts/Blinker-Thin.ttf);
+}
