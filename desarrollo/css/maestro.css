@@ -1,50 +1,58 @@
 body{
-    background-color: #130600;
-    color: #eeeeee;
-    font-family: Blinker-Light;
-    letter-spacing: 0.1em;
-    line-height: 1.5rem;
-    /* background-color: #202020;
-    background-image: url(../img/fondo-sw.jpg);
-    background-size: cover;
-    background-position: center;
+    margin: 81px 0px 0px 0px !important;
+    padding: 0px;
+    background-color: #272e35 !important;
+    background-image: url(../img/fondo-degradado.png);
+    background-position: left bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: #fff;
-    padding: 0px;
-    margin: 0px;
-    text-shadow: 0px 2px 2px black; */
+    font-family: Blinker-Light;
+    color: #fff !important;
 }
-/* height: 100%; */
-/* opacity: .2; */
-.nivel-0{
-    /* margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    max-width: 1400px;
-    border-radius: 10px;
-    border: 1px solid rgba(238, 238, 238, 0.35);
-    background-color: rgba(100, 100, 100, 0.35); */
-}
-.nivel-1{
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
-}
-.img-fvf{
-    /* margin: 10px 0px; */
-}
-h1{
-    /* text-align: center;
-    letter-spacing: 0.2em;
-    font-size: 1.5rem;
-    font-family: Blinker-Bold; */
-}
-p{
-    /* text-align: center;
-    line-height: 1.3rem;
+
+.navbar-brand{
+    font-family: SLIMEDUNK-ITALIC-CLEAN;
+    color: #eee !important;
     letter-spacing: 0.1em;
-    font-family: Blinker-Light; */
+    font-size: 1.6rem !important;
 }
+.color-fit{
+    color: #ff4e00;
+}
+
+.breadcrumb-item.active {
+    color: #ffa424 !important;
+}
+
+.navbar-nav .nav-link.active{
+    color: #ffa424 !important;
+}
+.nav-link:hover{
+    color: #ffa424 !important;
+}
+/*.nav-link{
+    color: #eee !important;
+}
+a{
+    color: #eee !important;
+}
+.breadcrumb-item + .breadcrumb-item::before{
+    color: #fff !important;
+}
+
+.breadcrumb-item.active{
+    color: #ffa424 !important;
+} */
+
+/* .dropdown-menu{
+    background-color: #902b00 !important;
+    color: #eee !important;
+} */
+
+/* background-size: cover; */
+/* opacity: .2; */
+/* border-radius: 10px; */
+/* border: 1px solid rgba(238, 238, 238, 0.35); */
+/* letter-spacing: 0.1em; */
+/* line-height: 1.5rem; */
+/* text-shadow: 0px 2px 2px black; */

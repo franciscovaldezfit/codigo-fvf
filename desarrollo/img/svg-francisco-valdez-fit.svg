@@ -1,0 +1,21 @@
+<svg id="isotipo_plano" data-name="isotipo plano" xmlns="http://www.w3.org/2000/svg" width="60" height="53.2" viewBox="0 0 600 532">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffa424;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #eee;
+      }
+    </style>
+  </defs>
+  <path id="f_naranja" data-name="f naranja" class="cls-1" d="M386.307,0.5l8.179,17.975-49.14,106.93H288.5l28.306,62.364-92.429,200.7H208.761l-93.7-184.122L207.939,0.5H386.307Z"/>
+  <path id="v_1" data-name="v 1" class="cls-2" d="M591.8,0.5H439.735L215.8,490.08,235.064,531.5H364.936L600.02,18.586Z"/>
+  <path id="v_2" data-name="v 2" class="cls-2" d="M358.36,0.5H207.117L99.438,236.409l77.266,168.5H191.5l98.637-217-27.947-62.47h55.894l48.441-106.71Z"/>
+  <path id="v_3" data-name="v 3" class="cls-2" d="M143,0.5H8.2L-0.02,18.586,68.2,168.185H83L151.262,18.447Z"/>
+</svg>

@@ -31,7 +31,9 @@
 
 /*Inicia Extra Small...*/
 @media (min-width: 320px) and (max-width: 575px){
-    
+    .navbar-brand{
+        letter-spacing: 0em;
+    }
 }
 @media (max-width: 319px){
     body{

@@ -30,3 +30,7 @@
     font-family: Blinker-Thing;
     src: url(../fonts/Blinker-Thin.ttf);
 }
+@font-face{
+    font-family: SLIMEDUNK-ITALIC-CLEAN;
+    src: url(../fonts/SLIMEDUNK-ITALIC-CLEAN.otf);
+}
