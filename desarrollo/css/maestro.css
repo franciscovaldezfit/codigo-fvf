@@ -2,12 +2,27 @@ body{
     margin: 81px 0px 0px 0px !important;
     padding: 0px;
     background-color: #272e35 !important;
-    background-image: url(../img/fondo-degradado.png);
+    /* background-image: url(../img/fondo-degradado.png); */
     background-position: left bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Blinker-Light;
     color: #fff !important;
+    
+}
+
+.espacio-bonito{
+    margin: 50px 0px;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.pie-pagina{
+    margin: 50px 0px 0px 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #273f43;
 }
 
 .navbar-brand{
@@ -54,5 +69,6 @@ a{
 /* border-radius: 10px; */
 /* border: 1px solid rgba(238, 238, 238, 0.35); */
 /* letter-spacing: 0.1em; */
-/* line-height: 1.5rem; */
+/* line-height: 1.8rem !important; */
 /* text-shadow: 0px 2px 2px black; */
+/* white-space: pre-line; */
