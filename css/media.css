@@ -1,3 +1,48 @@
+
+/*Inicia Extra Extra Large...*/
+@media (min-width: 1400px){
+    
+}
+/*...termina XXL*/
+
+/*Inicia Extra Large...*/
+@media (min-width: 1200px) and (max-width: 1399px){
+    
+}
+/*...termina XL*/
+
+/*Inicia Large...*/
+@media (min-width: 992px) and (max-width: 1199px){
+    
+}
+/*...termina LG.*/
+
+/*Inicia Medium...*/
+@media (min-width: 768px) and (max-width: 991px){
+   
+}
+/*...termina MD.*/
+
+/*Inicia Small...*/
+@media (min-width: 576px) and (max-width: 767px){
+    
+}
+/*...termina SM.*/
+
+/*Inicia Extra Small...*/
+@media (min-width: 320px) and (max-width: 575px){
+    .navbar-brand{
+        letter-spacing: 0em;
+    }
+}
+@media (max-width: 319px){
+    body{
+        display: none;
+        /* background-color: #130600 !important; */
+    }
+}
+/*...termina XS.*/
+
 /*Inicia XL...*/
 @media (min-width: 1200px){
     
