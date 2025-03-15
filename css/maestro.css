@@ -9,6 +9,10 @@ body{
     font-family: Blinker-Light;
     color: #fff !important;
 }
+p a{
+    color: #face17 !important; 
+}
+
 
 .espacio-bonito-linea{
     margin: 50px 0px;
@@ -50,9 +54,6 @@ body{
 }
 .nav-link:hover{
     color: #ffa424 !important;
-}
-p span{
-    color: #ff4e00;
 }
 h1, h2, h3{
     font-style: italic;
